@@ -1,0 +1,125 @@
+*{margin: 0;padding: 0;}
+li{list-style:none;}
+a{text-decoration: none;}
+body{font-family: "微软雅黑";color: #fff;background-color: #000;}
+.nav{height: 85px;}
+.nav .logo{float: left;margin-top: 25px;margin-left: 68px;}
+.nav_nav{float: left;width: 1603px;margin-left: 68px;}
+.nav_nav1{float: left;margin-top: 28px;font-size: 18px;color: #fff;}
+.nav_li{float: right;}
+.nav_li ul li{display: inline-block;color: #fff;font-size: 18px;padding: 28px 30px 25px;}
+.nav_li ul li:hover{border-bottom: 7px solid #41f5ef;color: #41f5ef;transition: all 0.3s linear;}
+.img1{margin:0 auto; width: 1602px;height: 896px;margin-bottom: 90px; background: url(../images/folio_about/Folio_about1.png)no-repeat center center;background-size: 100%;}
+.img1:hover{background-size: 180%; transition:all 8s;}
+.top_z1{width: 1602px;height: 321px;margin: 0 auto;}
+.top_z1 span{display: inline-block;font-size: 18px;}
+.top_z1 span:nth-child(1){width: 218px;float: left;}
+.top_z1 span:nth-child(2){width: 690px;}
+.top_z1 span:nth-child(3){width: 490px;}
+
+.center_box{width: 1920px;height: 965px;}
+.center_box div{width: 476px;height: 478px;border:2px solid #171717;float: left;text-align:center;}
+.center_box div div{margin-top: 120px;border:none;height: 358px;}
+.center_box div div h3{margin-top: 46px;}
+.center_box div:hover{background-color: #fff;color: #000;transition: all 0.5s linear;}
+.center_box div:hover .bh{margin-top: 40px;}
+.center_box div div .yc{width: 376px;margin:45px 50px;font-size: 14px;float: left;opacity:0;height: 100px;}
+.center_box div:hover .yc{opacity:1;}
+
+.center-wen{height: 725px;}
+.center-wen div{float: left;}
+.wen1{width: 374px;text-align: center;font-size: 24px;margin-top: 94px;}
+.wen2{width: 731px;font-size: 20px;margin-top: 150px;}
+.wen3{width: 660px;font-size: 20px;margin-top: 150px;}
+
+
+.center_logo{height: 350px;}
+._logo1{font-size: 24px;text-align: center;width: 377px;float: left;}
+._logo2{width: 1385px;float: left;}
+._logo_img1{float: left;margin-right: 141px;margin-bottom: 116px;}
+._logo_img1:nth-child(7){margin-left: 60px;}
+._logo_img1:nth-child(8){margin-left: 72px;}
+._logo_img1:nth-child(9){margin-left: 67px;margin-top: 10px;}
+._logo_img1:nth-child(10){margin-left: 28px;}
+
+.center_img_box{width: 1601px;height: 894px; margin: 0 auto;margin-bottom: 76px;background:url(../images/folio_about/Folio_about_b.png)no-repeat center center;background-size: 100%;}
+.center_img_box:hover{background-size: 130%;transition: all 1s;}
+.bottom_img{margin-left: 151px;float: left;margin-bottom: 88px;}
+.bottom_img1{width: 760px;height: 500px;float: left;margin-right: 82px;background:url(../images/folio_about/Folio_about_c.png)no-repeat center center;background-size: 100%;}
+.bottom_img2{width: 760px;height: 500px;float: left;background:url(../images/folio_about/Folio_about_dd.png)no-repeat center center;background-size: 100%;}
+
+.bottom_img div:hover{background-size: 130%;transition: all 1s;}
+
+.bottom_nav{width: 1920px;height: 240px;}
+.bottom_nav_box1{width: 152px;float: left;text-align: center;padding-top: 60px;}
+.bottom_nav_box2{float: left;/*text-align: center;*/padding-top: 60px;border-top: 2px solid #171717;}
+.bottom_nav .bn_2{float: left; font-size: 18px;color: #fff;margin-left: 60px;}
+.bottom_nav .bn_3{float: left;margin-left: 140px; font-size: 18px;color: #3ddebe;}
+.bottom_nav .bn_3 span{color: #737373;}
+.bottom_nav .bn_3 a{color: #3ddebe;}
+.bottom_nav .bn_3 span:hover{color: #3ddebe;}
+
+.bottom_nav .bn_4{float: left; font-size: 18px;color: #fff;margin-left: 150px;}
+.bottom_nav .bn_5{ color: #737373; width: 190px;float: left;margin-left: 100px;line-height: 36px;}
+.bottom_nav .bn_5 a:hover{color: orange;}
+.bottom_nav .bn_5 a{color: #787878;}
+.bottom_nav .bn_6{float: left; font-size: 18px;color: #fff;margin-left: 150px;}
+.bottom_nav .bn_7{margin-left: 300px; color: #787878; float: left; line-height: 36px;}
+.bottom_nav .bn_7 a{color: #787878;}
+.bottom_nav .bn_7 a:hover{color: #e35087;}
+.bottom_nav .bn_8{margin-left: 30px; color: #787878; float: left; line-height: 36px;}
+.bottom_nav .bn_8 a{color: #787878;}
+.bottom_nav .bn_8 a:hover{color: #e35087;}
+.bottom_nav .bn_8 a:nth-child(1){color: #e35087;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
